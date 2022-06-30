@@ -1,0 +1,306 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+#FUNDO{
+  background-image: url(img/fundo/SAKURA.png);
+  background-size: 50%;
+  background-repeat: repeat;
+}
+#BASE{
+  width: 1040px;
+  height: 1000px;
+  background-image: url(img/fundo/FUNDO.jpg);
+  background-repeat: no-repeat;
+  background-color: #FDC5EF;
+  background-position: left;
+}
+#CABECALHO{
+  background-color: #CDE3FB;
+  width: 1000px;
+  height: 200px;
+  position: relative;
+  top: 85px;
+}
+.TOKYO2020{
+  width: 300px;
+  height: 200px;
+  position: relative;
+  top: -40px;
+  right: 180px;
+}
+.MASC1{
+  width: 320px;
+  height: 240px;
+  position: relative;
+  left: 140px;
+}
+#BASETABELA{
+  width: 1020px;
+  height: 580px;
+  position: relative;
+  top: 135px;
+  right: 4px;
+}
+#TABELA{
+  width: 490px;
+  height: 440px; 
+  position: relative;
+  top: 50px;
+  left: -150px;
+}
+.CONFTABELA{
+  border-color: rgb(238, 130, 211);
+  border-radius: 3%;
+  width: 490px;
+  height: 400px;
+  background-color: deeppink;
+  position: relative; 
+  right: 60px;
+}
+.tdlinha{
+  font-family: Lato;
+  font-size: 140%;
+  width: 600px;
+  background-color: beige;
+  color: rgb(27, 27, 114);
+}
+.tdlinha1{
+  background-color: white;
+  height: 10px;
+  font-family: Lato;
+  font-size: 140%;
+  text-align: center;
+  color: rgb(27, 27, 114);
+}
+.tdlinha2{
+ color: rgb(229, 255, 216);
+ font-family: Lato;
+ font-size: 150%;
+ height: 30px; 
+ text-align: center;
+}
+.tdlinha2medalhaouro{
+ color: rgb(252, 248, 29);
+ font-family: Lato;
+ font-size: 200%;
+ text-align: center;
+ height: 30px;
+}
+.tdlinha2medalhaprata{
+ color: rgb(175, 175, 169);
+ font-family: Lato;
+ font-size: 200%;
+ text-align: center;
+ height: 30px;
+}
+.tdlinha2medalhabronze{
+ color: rgb(148, 48, 2);
+ font-family: Lato;
+ font-size: 200%;
+ text-align: center;
+ height: 30px;
+}
+.tdlinha2medalhatotal{
+ color: rgb(0, 255, 0);
+ font-family: Lato;
+ font-size: 200%;
+ text-align: center;
+ height: 30px;
+}
+.tdbandeira{
+  width: 85px; 
+}
+.bandeira{
+  width: 85px;
+  height: 45px; 
+}
+.medalha1l1{
+  width: 60px;
+  height: 50px;
+}
+.medalha2l1{
+  width: 60px;
+  height: 50px;
+}
+.medalha3l1{
+  width: 60px;
+  height: 50px;
+}
+.medalha4l1{
+  width: 60px;
+  height: 50px;
+}
+.ARAKIARTE{
+  width: 200px;
+  height: 393px;
+  position: relative;
+  left: 285px;
+  top: -403px;
+}
+#FUNDOCHINA{
+  background-image: url(img/fundo/CHF.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+#FUNDOGB{
+  background-image: url(img/fundo/GBF.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+#FUNDOEUA{
+  background-image: url(img/fundo/USF.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+#FUNDOHO{
+  background-image: url(img/fundo/HOF.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+#FUNDOUC{
+  background-image: url(img/fundo/UCF.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+#FUNDOROC{
+  background-image: url(img/fundo/RUF.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+#BASEPAISES{
+  width: 1020px;
+  height: 800px; 
+  background-image: url(img/fundo/FUNDO.jpg);
+  background-repeat: no-repeat;
+  background-color: #FDC5EF;
+  background-position: left;
+}
+#BASEPMEDALHAS{
+  width: 1020px;
+  height: 980px; 
+  background-image: url(img/fundo/FUNDO.jpg);
+  background-repeat: no-repeat;
+  background-color: #FDC5EF;
+  background-position: left;
+}
+#CABECALHOPAISES{
+  width: 900px;
+  height: 200px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  top: 85px;
+}  
+.BANDEIRACONF{
+  width: 300px;
+  height: 200px;
+  position: relative;
+  top: 0px;
+  right: 20px;
+}
+.NOMEPAIS{
+ color: rgb(0, 0, 0);
+ font-family: Lato;
+ font-size: 300%;
+ position: relative;
+ top: 85px;
+ right: 30px;
+}
+.NOME{
+ color: rgb(0, 6, 87);
+ font-family: Lato;
+ font-size: 300%;
+}
+#TABELAMEDALHAS{
+  background-image: url(img/fundo/CHF.jpg);
+  width: 600px;
+  height: 300px;
+  border-radius: 2%;
+  border-color: yellow;
+  background-color: yellow;
+  position: relative; 
+  top: 100px;
+  border-style: dashed;
+}
+#TABELAMEDALHAS2{
+  background-image: url(img/fundo/CHF.jpg);
+  width: 600px;
+  height: 300px;
+  border-radius: 2%;
+  border-color: yellow;
+  background-color: yellow;
+  position: relative; 
+  top: 20px;
+  border-style: dashed;
+}
+#TABELAMEDALHAS3{
+  background-image: url(img/fundo/CHF.jpg);
+  width: 600px;
+  height: 300px;
+  border-radius: 2%;
+  border-color: rgb(207, 207, 207);
+  background-color: rgb(207, 207, 207);
+  position: relative; 
+  top: 20px;
+  border-style: dashed;
+}
+#TABELAMEDALHAS4{
+  background-image: url(img/fundo/CHF.jpg);
+  width: 600px;
+  height: 300px;
+  border-radius: 2%;
+  border-color: rgb(219, 100, 44);
+  background-color: rgb(219, 100, 44);
+  position: relative; 
+  top: 20px;
+  border-style: dashed;
+}
+.width{
+  width: 30px;
+}
+.texto{
+ color: rgb(0, 0, 0);
+ font-family: Lato;
+ font-size: 200%;
+ background-color: white;
+}
+.LINK{
+ color: rgb(30, 0, 85);
+ font-family: Lato;
+ font-size: 130%;
+}
+.medalhaslink{
+  width: 200px;
+  height: 120px; 
+}
+#LINKCONF{
+  position: fixed;
+  top: 100px;
+  left: 10px;
+  background-color: rgb(150, 195, 255);
+}
+.esporte{
+ width: 30px;
+ height: 30px;
+}
+.espO{
+ color: rgb(6, 0, 85);
+ font-family: Lato;
+ font-size: 100%;
+ background-color: rgb(246, 147, 255);
+}
+.espO2{
+ color: rgb(6, 0, 85);
+ font-family: Lato;
+ font-size: 100%;
+ background-color: rgb(233, 174, 48);
+}
+.espO3{
+ color: rgb(6, 0, 85);
+ font-family: Lato;
+ font-size: 100%;
+ background-color:  rgb(161, 161, 161);
+}
+.espO4{
+ color: rgb(6, 0, 85);
+ font-family: Lato;
+ font-size: 100%;
+ background-color:  rgb(177, 90, 19);
+}
